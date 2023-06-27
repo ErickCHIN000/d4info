@@ -1,0 +1,498 @@
+Basic Cluster
+lunging strike barbarian skill fextralife wiki guide diablo4
+Lunging Strike
+Tags: Basic  
+
+Generate Fury: 9
+Lucky Hit Chance: 50%
+Lunge forward and strike an enemy for 0-0 [30%] damage.
+Enhancement
+Enhanced Lunging Strike: Lunging Strike deals 30%[+] increased damage and Heals you for 2% Maximum Life (X) when it damages a Healthy enemy.
+
+Upgrade 1
+Battle Lunging Strike: Lunging Strike also inflicts X [20%] Bleeding damage over 5 seconds.
+
+Upgrade 2
+Combat Lunging Strike: Critical Strikes with Lunging Strike grant you Berserking for 1.5 seconds.
+
+bash barbarian skill fextralife wiki guide diablo4
+Bash
+Tags: Basic Bludgeoning
+
+Generate Fury: 10
+Lucky Hit Chance: 50%
+Bash the enemy with your weapon, dealing X [30%] damage. After bashing enemies 4 times, your next Bash will Stun for 1.25 seconds, this increases to 2 seconds if using a Two-Handed weapon.
+Enhancement
+Enhanced Bash: Damaging a Stunned enemy with Bash grants you 10% Base Life (X) as Fortify. Double this amount when using a Two- Handed weapon.
+
+Upgrade 1
+Battle Bash: Damaging a Stunned enemy with Bash generates an additional 3 Fury, or 4 Fury if using a Two-Handed weapon.
+
+Upgrade 2
+Combat Bash: After Critically Striking 4 times with Bash using a Two-Handed weapon, your next Core or Weapon Mastery Skill will Overpower.
+
+frenzy barbarian skill fextralife wiki guide diablo4
+Frenzy
+Tags: Basic Dual Wield
+
+Generate Fury: 4
+Lucky Hit Chance: 30%
+Unleash a rapid flurry of blows, dealing X [20%] damage with each pair of hits.
+If Frenzy hits an enemy, its Attack Speed is increased by 20% [+] for 3 seconds, up to 60%[+].
+Enhancement
+Enhanced Frenzy: While Frenzy is granting 60%[+] bonus Attack Speed, it also generates 2 additional Fury.
+
+Upgrade 1
+Combat Frenzy: You gain 8% Damage Reduction for each stack of Frenzy you currently have.
+
+Upgrade 2
+Battle Frenzy: While Berserking, your other Skills gain 5%[+] Attack Speed for each stack of Frenzy you have.
+
+flay barbarian skill fextralife wiki guide diablo4
+Flay
+Tags: Basic  
+
+Generate Fury: 9
+Lucky Hit Chance: 50%
+Flay the enemy, dealing X [5%] damage and inflicting X [36%] Bleeding damage over 5 seconds.
+Enhancement
+Enhanced Flay: Flay has a 10% chance to make the enemy Vulnerable for 2 seconds. Double this chance when using a Two-Handed weapon.
+
+Upgrade 1
+Battle Flay: When Flay deals direct damage to an enemy, they take 10%[X] increased Bleeding damage from you for the next 3 seconds.
+
+Upgrade 2
+Combat Flay: When Flay deals direct damage to an enemy, you gain 3% Damage Reduction and 4 Thorns for 3 seconds. This stacks up to 4 times.
+
+Core Cluster
+whirlwind barbarian skill fextralife wiki guide diablo4
+Whirlwind
+Tags: Core Channeled
+
+Fury Cost: 25 per second
+Lucky Hit Chance: 20%
+Rapidly attack surrounding enemies for X [16%] damage.
+Enhancement
+Enhanced Whirlwind: Gain 1 Fury each time Whirlwind deals direct damage to an enemy, or 4 Fury against Elite enemies.
+
+Upgrade 1
+Violent Whirlwind: After using Whirlwind for 2 seconds, Whirlwind deals 30%[X] increased damage until it is cancelled.
+
+Upgrade 2
+Furious Whirlwind: While using a Slashing weapon, Whirlwind also inflicts 40% of its Base damage as Bleeding damage over 5 seconds.
+
+hammer of the ancients barbarian skill fextralife wiki guide diablo4
+Hammer of the Ancients
+Tags: Core Bludgeoning
+
+Fury Cost: 35
+Lucky Hit Chance: 50%
+Slam your hammer down with the fury of the Ancients, dealing X [50%] damage to a concentrated area.
+Enhancement
+Enhanced Hammer of the Ancients: Gain 3% [x] more Fury for 5 seconds for each enemy damaged by Hammer ofthe Ancients, stacking up to 10 times.
+
+Upgrade 1
+Violent Hammer of the Ancients: After Overpowering with Hammer of the Ancients, you deal 30% [x] more damage for 2.5 seconds.
+
+Upgrade 2
+Furious Hammer of the Ancients: Hammer ofthe Ancients deals 1% [x] additional damage for each point of Fury you had when using it.
+
+upheaval barbarian skill fextralife wiki guide diablo4
+Upheaval
+Tags: Core  
+
+Fury Cost: 40
+Lucky Hit Chance: 25%
+Tear into the ground with your weapon and fling debris forward, dealing X [70%] damage.
+Enhancement
+Enhanced Upheaval: Upheaval has a 20% chance to Stun all enemies it damages for 2.5 seconds.
+
+Upgrade 1
+Violent Upheaval: If Upheaval damages at least 2 enemies, you gain Berserking for 2 seconds, increased to 3 seconds if it damages at least 4 enemies.
+
+Upgrade 2
+Furious Upheaval: Dealing direct damage to an enemy with a Skill that is not Upheaval causes your next cast of Upheaval to deal 3% [x] increased damage, stacking up to 10 times.
+
+double swing barbarian skill fextralife wiki guide diablo4
+Double Swing
+Tags: Core Dual Wield
+
+Fury Cost: 25
+Lucky Hit Chance: 30%
+Sweep your weapons from opposite directions, dealing X [36%] damage with each weapon. Enemies caught in the center are damaged by both.
+Enhancement
+Enhanced Double Swing: If Double Swing damages a Stunned or Knocked Down enemy, gain 25 Fury.
+
+Upgrade 1
+Furious Double Swing: Casting Double Swing while Berserking grants 2 additional seconds of Berserking.
+
+Upgrade 2
+Violent Double Swing: Hitting an enemy with both hits of Double Swing makes them Vulnerable for 1 second.
+
+rend barbarian skill fextralife wiki guide diablo4
+Rend
+Tags: Core  
+
+Fury Cost: 35
+Lucky Hit Chance: 33%
+Cleave enemies in front ofyou, dealing X [12%] damage and inflicting X [96%] Bleeding damage over 5 seconds
+Enhancement
+Enhanced Rend: Dealing direct damage with Rend extends the duration of Vulnerable on enemies by 2 seconds.
+
+Upgrade 1
+Violent Rend: Rend deals 12% [x] increased damage to Vulnerable enemies.
+
+Upgrade 2
+Furious Rend: Direct damage with Rend grants 4 Fury per enemy hit, up to a maximum of 20 Fury.
+
+pressure point passive skills diablo4 wiki guide
+Pressure Point
+Lucky Hit: Your Core skills have up to a 10% chance to make enemies Vulnerable for 2 seconds.
+endless fury passive skills diablo4 wiki guide
+Endless Fury
+Basic Skills generate 5% [x] more Fury when using Two-Handed weapons.
+ 
+Defensive Cluster
+ground stomp barbarian skill fextralife wiki guide diablo4
+Ground Stomp
+Tags: Defensive  
+
+Cooldown: 16 seconds
+Lucky Hit Chance: 33%
+Smash the ground, dealing X [10%] damage and Stunning surrounding enemies for 3 seconds.
+Enhancement
+Enhanced Ground Stomp: Increase Ground Stomp’s duration by 1 second.
+
+Upgrade 1
+Tactical Ground Stomp: Ground Stomp generates 25 Fury.
+
+Upgrade 2
+Strategic Ground Stomp: Reduce the Cooldown of your Ultimate Skill by 1 second for each enemy damaged by Ground Stomp.
+
+rallying cry barbarian skill fextralife wiki guide diablo4
+Rallying Cry
+Tags: Defensive Shout
+
+Cooldown: 25 seconds
+Bellow a rallying cry, increasing your Movement Speed by 30%[+] and Resource Generation by 40%[+] for 6.0 seconds, and Nearby allies for 3.0 seconds.
+Enhancement
+Enhanced Rallying Cry: Rallying Cry grants you Unstoppable while active.
+
+Upgrade 1
+Strategic Rallying Cry: Rallying Cry grants you 10% Base Life as Fortify. While Rallying Cry is active, you gain an additional 2% Base Life as Fortify each time you take or deal direct damage.
+
+Upgrade 2
+Tactical Rallying Cry: Rallying Cry generates 20 Fury and grants you an additional 20%[x] Resource Generation.
+
+iron skin barbarian skill fextralife wiki guide diablo4
+Iron Skin
+Tags: Defensive  
+
+Cooldown: 14 seconds
+Steel yourself, gaining a Barrier that absorbs 50% of your missing Life for 5 seconds.
+Enhancement
+Enhanced Iron Skin: Iron Skin's Barrier absorbs 10% more of your Maximum Life.
+
+Upgrade 1
+Strategic Iron Skin: Iron Skin also grants 15% Base Life as Fortify. Double this amount if cast while below 50% Life.
+
+Upgrade 2
+Tactical Iron Skin: While Iron Skin is active, Heal for 10% of the Barrier's original amount as Life per second.
+
+challenging shout barbarian skill fextralife wiki guide diablo4
+Challenging Shout
+Tags: Defensive Shout
+
+Cooldown: 25 Seconds.
+Taunt Nearby enemies and gain 40% Damage Reduction for 6 seconds.
+Enhancement
+Enhanced Challenging Shout: While Challenging Shout is active, gain 20%[x] bonus Maximum Life.
+
+Upgrade 1
+Strategic Challenging Shout: While Challenging Shout is active, gain Thorns equal to 30% of your Maximum Life.
+
+Upgrade 2
+Tactical Challenging Shout: While Challenging Shout is active, you gain 3 Fury each time you take damage.
+
+imposing presence passive skills diablo4 wiki guide
+Imposing Presence
+Gain 5% [x] additional Maximum Life.
+martial vigor passive skills diablo4 wiki guide
+Martial Vigor
+Damage Reduction against Elites is increased by 3%.
+outburst passive skills diablo4 wiki guide
+Outburst
+Gain 2 Thorns. Also gain 1 Thorns for each 4 bonus Maximum Life you have.
+tough as nails passive skills diablo4 wiki guide
+Tough as Nails
+Increase your Thorns by 3% [+]. When enemies hit you, they take an additional 10% of your Thorns as Bleeding damage over 5 seconds.
+ 
+Brawling Cluster 
+kick barbarian skill fextralife wiki guide diablo4
+Kick
+Tags: Brawling  
+
+Charges: 2
+Charge Cooldown: 17 seconds
+Lucky Hit Chance: 100%
+Throw a powerful kick that deals X [18%] damage and Knocks Back enemies in front of you. Enemies who are Knocked Back into terrain take an additional 0 [54%] damage and are Stunned for 3 seconds.
+Enhancement
+Enhanced Kick: Damaging enemies with Kick makes them Vulnerable for 4 seconds.
+
+Upgrade 1
+Mighty Kick: Kicked enemies deal X [54%] damage to enemies they collide with while being Knocked Back. Enemies damaged this way are Knocked Down for 2 seconds.
+
+Upgrade 2
+Power Kick: If Kick damages an enemy, it consumes all of your Fury and Deals an additional X [20%] damage per 10 Fury spent. Kick no longer Knocks Back enemies.
+
+war cry barbarian skill fextralife wiki guide diablo4
+War Cry
+Tags: Brawling Shout
+
+Cooldown: 25 seconds
+Bellow a mighty war cry, increasing your damage dealt by 15.0% [x] for 6.0 seconds, and Nearby allies for 3.0 seconds.
+Enhancement
+Enhanced War Cry: War Cry grants you Berserking for 4 seconds.
+
+Upgrade 1
+Power War Cry: If at least 6 enemies are Nearby when you cast War Cry, your damage bonus is increased by 10% [x]
+
+Upgrade 2
+Mighty War Cry: War Cry grants you 15% Base Life as Fortify.
+
+charge barbarian skill fextralife wiki guide diablo4
+Charge
+Tags: Brawling  
+
+Cooldown: 17 seconds
+Lucky Hit Chance: 33%
+Become Unstoppable and rush forward, pushing enemies with you then swinging through them for X [25%] damage and Knocking them Back.
+Enhancement
+Enhanced Charge: Enemies who are Knocked Back into terrain by Charge take X [15%] damage and are Stunned for 3 seconds.
+
+Upgrade 1
+Mighty Charge: Damaging enemies with Charge makes them Vulnerable for 2 seconds.
+
+Upgrade 2
+Power Charge: Reduce Charge's Cooldown by 3 seconds if it Knocks Back an enemy into terrain.
+
+leap barbarian skill fextralife wiki guide diablo4
+Leap
+Tags: Brawling  
+
+Cooldown: 17 seconds
+Lucky Hit Chance: 66%
+Leap forward and then slam down, dealing X [33%] damage and Knocking Back surrounding enemies on impact.
+Enhancement
+Enhanced Leap: If Leap doesn't damage any enemies, its Cooldown is reduced by 4 seconds.
+
+Upgrade 1
+Mighty Leap: Enemies damaged by Leap are Slowed by 50% for 5 seconds.
+
+Upgrade 2
+Power Leap: If Leap damages at least one enemy, gain 40 Fury.
+
+booming voice passive skills diablo4 wiki guide
+Booming Voice
+Your Shout Skill effect durations are increased by 8% [x].
+raid leader passive skills diablo4 wiki guide
+Raid Leader
+Your Shouts also Heal allies for 1% of their Maximum Life per second.
+guttural yell passive skills diablo4 wiki guide
+Guttural Yell
+Your Shout Skills cause enemies to deal 4% less damage for 5 seconds.
+aggresive resistance passive skills diablo4 wiki guide
+Aggressive Resistance
+Gain 3% Damage Reduction while Berserking.
+
+battle fervor passive skills diablo4 wiki guide
+Battle Fervor
+When a Brawling Skill damages at least one enemy, gain Berserking for 1 second.
+prolific fury passive skills diablo4 wiki guide
+Prolific Fury
+While Berserking, Fury Generation is increased by 6% [x].
+swiftness passive skills diablo4 wiki guide
+Swiftness
+Movement Speed is increased by 4% [+].
+quick impulses passive skills diablo4 wiki guide
+Quick Impulses
+Reduce the duration of Control Impairing Effects by 6%.
+
+Weapon Mastery Cluster 
+rupture barbarian skill fextralife wiki guide diablo4
+Rupture
+Tags: Weapon Mastery  
+
+Cooldown: 10 seconds
+Lucky Hit Chance: 50%
+Skewer enemies in front of you, dealing X [13%] damage, then rip your weapon out, damaging enemies for their total Bleeding amount and removing all Bleeding damage from them.
+Enhancement
+Enhanced Rupture: Ripping your weapon out of enemies during Rupture causes an explosion that deals X [30%] Bleeding damage over 5 seconds.
+
+Upgrade 1
+Fighter's Rupture: Hitting at least 1 enemy with Rupture heals you for 15% of your Maximum Life.
+
+Upgrade 2
+Warrior's Rupture: Hitting enemies with Rupture increases your Attack Speed by 20% [+] for 4 seconds.
+
+steel grasp barbarian skill fextralife wiki guide diablo4
+Steel Grasp
+Tags: Weapon Mastery  
+
+Charges: 2
+Charge Cooldown: 11 seconds
+Lucky Hit Chance: 25%
+Throw out a trio of chains that deal X [23%] damage and Pull In enemies.
+Enhancement
+Enhanced Steel Grasp: Steel Grasp also makes enemies Vulnerable for 2.5 seconds.
+
+Upgrade 1
+Fighter's Steel Grasp: If Steel Grasp damages an enemy, gain Berserking for 2 seconds.
+
+Upgrade 2
+Warrior's Steel Grasp: Steel Grasp Gains 1 additional Charge.
+
+death blow barbarian skill fextralife wiki guide diablo4
+Death Blow
+Tags: Weapon Mastery  
+
+Cooldown: 15 seconds
+Lucky Hit Chance: 50%
+Attempt a killing strike, dealing X [120%] damage to enemies in front of you.
+If this kills an enemy, its Cooldown is reset.
+Enhancement
+Enhanced Death Blow: Death Blow deals 100% [x] increased damage to Bosses.
+
+Upgrade 1
+Fighter's Death Blow: If Death Blow damages at least one enemy, gain 20 Fury.
+
+Upgrade 2
+Warrior's Death Blow: If Death Blow damages at least one enemy, gain Berserking for 3 seconds.
+
+pit fighter passive skills diablo4 wiki guide
+Pit Fighter
+You deal 3% [x] increased damage to Close enemies and gain 2% Distant Damage Reduction.
+no mercy passive skills diablo4 wiki guide
+No Mercy
+You have 3% [+] increased Critical Strike chance against Immobilized, Stunned, or Slowed enemies.
+slaying strike passive skills diablo4 wiki guide
+Slaying Strike
+You deal 8% [x] increased damage against Injured enemies.
+expose vulnerability passive skills diablo4 wiki guide
+Expose Vulnerability
+Dealing direct damage with a Weapon Mastery skill causes your next Core Skill to make enemies Vulnerable for 1 second.
+ 
+thick skin passive skills diablo4 wiki guide
+Thick Skin
+Each time you take direct damage gain 0.4% Base Life ( 1) as Fortify.
+defensive stance passive skills diablo4 wiki guide
+Defensive Stance
+Increase the Damage Reduction gained while you are Fortified by an additional 2%.
+counteroffensive passive skills diablo4 wiki guide
+Counteroffensive
+While you have Fortify for over 50% of your Maximum Life, you deal 4% [x] increased damage.
+hamstring passive skills diablo4 wiki guide
+Hamstring
+Your Bleeding effects Slow enemies by 10%.
+ 
+
+cut to the bone passive skills diablo4 wiki guide
+Cut to the Bone
+Your Bleeding effects deal 6% [x] increased damage to Vulnerable enemies.
+
+Ultimate Cluster
+call of the ancients barbarian skill fextralife wiki guide diablo4
+Call of the Ancients
+Tags: Ultimate  
+
+Cooldown: 50 seconds
+Lucky Hit Chance: 30%
+Call upon 3 Ancients to aid you in battle for 6 seconds.
+Korlic leaps at enemies, dealing X [104%] damage and swings his weapons in a frenzy, dealing X [39%] damage per hit.
+Talic spins in a whirlwind rapidly attacking enemies for X [65%] damage.
+Madawc upheaves the ground, dealing X [195%] damage.
+Enhancement
+Prime Call of the Ancients: While Call of the Ancients is active, gain 10% [+] bonus Attack Speed and 10% [x] increased damage.
+
+Upgrade 1
+Supreme Call of the Ancients: Each of the Ancients gains additional power:
+Korlic: You gain 10 Fury each time Korlic damages an enemy with his Frenzy.
+Talic: Enemies are Slowed by 50% for 1 second when damaged by his Whirlwind.
+Madawc: 30% chance to Stun enemies for 3 seconds when using his Upheaval.
+
+iron maelmstrom barbarian skill fextralife wiki guide diablo4
+Iron Maelstrom
+Tags: Ultimate  
+
+Cooldown: 60 seconds
+Lucky Hit Chance: 24%
+Activate three times to attach chains to each ofyour weapons and perform an attack:
+First your Two-Handed Bludgeoning weapon slams into the ground, dealing X [60%] damage and Stunning enemies for 2 seconds.
+Second your Two-Handed Slashing weapon swipes in front of you, dealing X [20%] damage and inflicting X [120%] Bleeding damage over 5 seconds.
+Third your Dual Wield weapons swing around you, dealing X [33%] damage per hit.
+Enhancement
+Prime Iron Maelstrom: Iron Maelstrom gains 10% [+] increased Critical Strike Chance and deals 20% [x] increased Critical Strike damage.
+
+Upgrade 1
+Supreme Iron Maelstrom: Dealing direct damage to an enemy after swapping weapons reduces Iron Maelstrom's Cooldown by 1 second.
+
+wrath of the berserker barbarian skill fextralife wiki guide diablo4
+Wrath of the Berserker
+Tags: Ultimate  
+
+Cooldown:  60 seconds
+Explode into rage, Knocking Back surrounding enemies and gaining  Berserking and  Unstoppable for  5 seconds. For the next  10 seconds, dealing direct damage with Basic Skills grants  Berserking for  5 seconds.
+Enhancement
+Prime Wrath of the Berserker: While Wrath of the Berserker is active, gain 20% [+] increased Movement Speed and increase Fury Generation by 30% [x].
+
+Upgrade 1
+Supreme Wrath of the Berserker: While Wrath of the Berserker is active, every 50 Fury you spend increases Berserker's damage bonus by 25% [x].
+
+heavy handed passive skills diablo4 wiki guide
+Heavy Handed
+While using Two-Handed weapons you deal 5% increased Critical Strike Damage.
+wallop passive skills diablo4 wiki guide
+Wallop
+Your Skills using Bludgeoning weapons deal 5% increased damage if the enemy is Stunned or Vulnerable.
+brute force passive skills diablo4 wiki guide
+Brute Force
+Your Overpowers deal 15% increased damage when using a Two-Handed weapon.
+concussion passive skills diablo4 wiki guide
+Concussion
+Lucky Hit: Skills using Bludgeoning weapons have up to a 10% chance to Stun enemies for 3 seconds, or up to a 15% chance when using a Two-Handed Bludgeoning weapon.
+ 
+
+tempered fury passive skills diablo4 wiki guide
+Tempered Fury
+Increase your Maximum Fury by 3.
+furious impulse passive skills diablo4 wiki guide
+Furious Impulse
+Each time you swap weapons, gain 2 Fury.
+invigorating fury passive skills diablo4 wiki guide
+Invigorating Fury
+Heal for 3% of your Maximum Life ( 1) for each 100 Fury spent.
+duelist passive skills diablo4 wiki guide
+Duelist
+Attack Speed is increased by 3% [+] while using One-Handed weapons.
+ 
+
+Key Passives
+unconstrained passive skills diablo4 wiki guide
+Unconstrained
+Increase Berserk‘s maximum duration by 5 seconds and increase its damage bonus by 25% [+].
+walking arsenal passive skills diablo4 wiki guide
+Walking Arsenal
+Dealing direct damage with a Two-Handed Bludgeoning, Two-Handed Slashing, or Dual Wielded weapons grants 10% [x] increased damage for 6 seconds.
+While all three damage bonuses are active, you gain an additional 15% [x] increased damage.
+unbridled rage passive skills diablo4 wiki guide
+Unbridled Rage
+Core Skills deal 135% [x] increased damage, but cost 100% [x] more Fury.
+gushing wound passive skills diabl4 wiki guide
+Gushing Wounds
+When causing an enemy to Bleed, you have a chance equal to your Critical Strike Chance to increase the Bleed amount by 100% of your Critical Strike Damage bonus.
+Overpowering a Bleeding enemy creates an explosion that inflicts X [11%] Bleeding damage over 5 seconds.
+
+all tags with Basic, Core, Defensive, Brawling, and Weapon Mastery can boost 5 times [cost 1 point per boost], you can only select 1 upgrade (upgrade 1 or 2) you must take the Enhancement to get to the upgrade for that skill
+all passives can boost up to 3 times[cost 1 point per boost]
+you can only have 1 ultimate and 1 passive
+you must spend atleast 2 points(in total) in the basic cluster to access the Core Cluster, 6 points(in total) to access the Defensive Cluster,11 points(in total) to access the Brawling Cluster, 16 points(in total) to access the Weapon Mastery Cluster,  23 points(in total) to access the Ultimate Cluster, and 33 points(in total) to access the Key Passives
